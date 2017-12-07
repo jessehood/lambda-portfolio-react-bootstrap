@@ -1,0 +1,15 @@
+.Navbar {
+  background: 'rgb(255, 255, 255)';
+  border: 'none'; /* reset bootstrap border */
+  border-bottom: "1px solid rgba(0, 0, 0, 0.14)";
+  margin-bottom: 0;
+  height: 50px;
+}
+
+.NavItem:hover {
+  border-bottom: 3px solid red;
+}
+
+.NavItem:hover a {
+  margin-bottom: -5px;
+}
