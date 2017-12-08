@@ -1,3 +1,8 @@
-.Header {
-  
+.Header__content {
+  background-image: url('/images/header-image.jpg');
+  background-size: cover;
+}
+
+.Header__title {
+  color: #fff !important;
 }
